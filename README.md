@@ -1,5 +1,5 @@
 # Comparing-algorithms
-Realization of data structure
+Implementation of data structure
 
 java
 
